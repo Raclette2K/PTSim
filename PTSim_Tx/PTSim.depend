@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1526499009 source:c:\users\pierre boisselier\documents\codeblocks\ptsim_tx\com.c
+	"com.h"
+
+1526497824 c:\users\pierre boisselier\documents\codeblocks\ptsim_tx\com.h
+	<Windows.h>
+	<stdio.h>
+	<string.h>
+
+1526499119 source:c:\users\pierre boisselier\documents\codeblocks\ptsim_tx\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lora_sim.h"
+
+1526494909 source:c:\users\pierre boisselier\documents\codeblocks\ptsim_tx\io.c
+	"io.h"
+
+1526496522 c:\users\pierre boisselier\documents\codeblocks\ptsim_tx\io.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1526496529 c:\users\pierre boisselier\documents\codeblocks\ptsim_tx\lora_sim.h
+	<stddef.h>
+	<stdio.h>
+	"io.h"
+	"com.h"
+
+1526501374 source:c:\users\pierre boisselier\documents\codeblocks\ptsim_tx\lora_sim.c
+	"lora_sim.h"
+
+1526499009 source:c:\users\pierre boisselier\documents\codeblocks\ptsim\com.c
+	"com.h"
+
+1526497824 c:\users\pierre boisselier\documents\codeblocks\ptsim\com.h
+	<Windows.h>
+	<stdio.h>
+	<string.h>
+
+1526494909 source:c:\users\pierre boisselier\documents\codeblocks\ptsim\io.c
+	"io.h"
+
+1526496522 c:\users\pierre boisselier\documents\codeblocks\ptsim\io.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1527085307 source:c:\users\pierre boisselier\documents\codeblocks\ptsim\lora_sim.c
+	"lora_sim.h"
+
+1526496529 c:\users\pierre boisselier\documents\codeblocks\ptsim\lora_sim.h
+	<stddef.h>
+	<stdio.h>
+	"io.h"
+	"com.h"
+
+1527085326 source:c:\users\pierre boisselier\documents\codeblocks\ptsim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lora_sim.h"
+
