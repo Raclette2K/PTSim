@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1526125180 source:c:\users\pierre boisselier\documents\codeblocks\ptsim_rx\com.c
+	"com.h"
+
+1525972440 c:\users\pierre boisselier\documents\codeblocks\ptsim_rx\com.h
+	<Windows.h>
+	<stdio.h>
+	<string.h>
+
+1526146819 source:c:\users\pierre boisselier\documents\codeblocks\ptsim_rx\main.c
+	<stdio.h>
+	<stdlib.h>
+
