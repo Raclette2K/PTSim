@@ -7,10 +7,10 @@ The goal of this project was to track people's pets using an embedded device.
 
 This project would have worked this way:
 
-i) A small device is attached to a collar on the pet, for instance a dog or better, a cat.
-ii) The device is getting its GPS position every minute and logging them on a storage device onboard.
-iii) The device uses the LoRa protocol to communicate its last positions to a server which, in its turn, logs them
-iv) The pet owner can then log onto a website and see a GPS map of his pet's route.
+1. A small device is attached to a collar on the pet, for instance a dog or better, a cat.  
+2. The device is getting its GPS position every minute and logging them on a storage device onboard.  
+3. The device uses the LoRa protocol to communicate its last positions to a server which, in its turn, logs them  
+4. The pet owner can then log onto a website and see a GPS map of his pet's route.  
 
 ## How it ended up
 
